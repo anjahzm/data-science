@@ -1,2 +1,2 @@
 # Kurs Repo für die Data Science UE
-Kurs-Repo für meinen MCIT-Bachelor-Kurs in Data Science.
+Kurs-Repo für meinen MCIT-Bachelor-Kurs in Data Science. Hier verwalte ich alle meine Code- und Datenfiles zum Kurs
