@@ -1,6 +1,3 @@
-# Kurs Repo für die Data Science UE
-Kurs-Repo für meinen MCIT-Bachelor-Kurs in Data Science. Hier verwalte ich alle meine Code- und Datenfiles zum Kurs
+# Aufgaben Ordner
 
-##Struktur
-Daten
-Code
+In diesem Ordner stelle ich alle Aufgaben zum Kurs zur Verfügung. Die Aufgaben werden in Form von Megatutorials bereitgestellt, die wir im Unterricht gemeinsam bearbeiten. Am Ende der Übung gibt es hier die Angabe zur Projektarbeit.
